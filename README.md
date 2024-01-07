@@ -1,2 +1,2 @@
 # calculator
-calculator with help of javascript
+Calculator with help of javascript
